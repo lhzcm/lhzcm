@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lhzcm&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
 
@@ -16,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=lhzcm&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lhzcm&layout=compact&hide_border=true&hide_title=true)\
+&nbsp;
+
 - :orange_book: Focusing on .NET 
 - 💻 I’m currently working on lexun
 - 📫 How to reach me: lhzcm888888@163.com
