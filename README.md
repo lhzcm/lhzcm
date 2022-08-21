@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 
+- :orange_book: Focusing on .NET 
 - 💻 I’m currently working on lexun
 - 📫 How to reach me: lhzcm888888@163.com
