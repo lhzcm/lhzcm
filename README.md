@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- :orange_book: Focusing on .NET 
+- 💻 I’m currently working on lexun
+- 📫 How to reach me: lhzcm888888@163.com
 ![](https://github-readme-stats.vercel.app/api?username=lhzcm&show_icons=true&icon_color=CE1D2D&text_color=ffffff&bg_color=ff9100&hide_title=true)
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=lhzcm&layout=compact&hide_border=true&hide_title=true)-->
 
-- :orange_book: Focusing on .NET 
-- 💻 I’m currently working on lexun
-- 📫 How to reach me: lhzcm888888@163.com
+
